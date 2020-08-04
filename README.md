@@ -47,5 +47,5 @@ To fix a bug or enhance an existing module, follow these steps:
 ### Setup
 clone this repo to your desktop and run 
 ### License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license. To check license click <a href="https://github.com/charlesmaillu/mc-pizza/blob/master/license">here</a>
  **Charles Mailu**                  
